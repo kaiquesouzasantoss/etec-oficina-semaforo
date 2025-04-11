@@ -1,4 +1,4 @@
-<h1 align=center>🧮 ETEC CIDADE TIRADENTES - OFICINA DE ARDUINO - SEMÁFORO</h1>
+<h1 align=center>OFICINA DE ARDUINO - SEMÁFORO</h1>
 
 <p align="center">
   <img src="etec.png" width="500">
